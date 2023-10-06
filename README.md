@@ -1,4 +1,4 @@
-### Hi there 👋
+### Une croquette 👋
 
 <!--
 **JM-LA/JM-LA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
